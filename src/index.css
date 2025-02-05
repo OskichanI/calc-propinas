@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+body {
+  background-image: url(fondo.jpeg);
+  backdrop-filter: grayscale(1);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
